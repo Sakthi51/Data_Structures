@@ -1,4 +1,5 @@
-#Reference (https://www.youtube.com/watch?v=pMh_OX3ipHE)
+# Reference (https://www.youtube.com/watch?v=pMh_OX3ipHE)
+# Geeks for Geeks
 
 stack = []
 top = -1
