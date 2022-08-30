@@ -7,7 +7,7 @@ def dequeue():
     if not queue:
         print("Queue is empty")
     else:
-        element = queue.pop()
+        element = queue.pop(0)
 def display():
     print(queue)
 
