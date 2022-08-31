@@ -1,4 +1,6 @@
 # Create a empty head node
+# self.head = pointer
+# self.head.data = value stored in the pointer
 class Node():
     def __init__(self, data):
         self.data = data
